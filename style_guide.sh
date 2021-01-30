@@ -8,4 +8,4 @@ declare -A urls=(["ShellScript"]="https://google.github.io/styleguide/shellguide
 
 for key in ${!urls[@]};do
     echo ${key}
-done | fzf | { read v; firefox ${urls[${v}]};}
+done | fzf | { read v; firefox ${urls[${v}]}; }
