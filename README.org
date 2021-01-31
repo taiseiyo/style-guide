@@ -1,2 +1,5 @@
 * Style Guide List
-[[https://google.github.io/styleguide/shellguide.html][Shell Script]]
+  - [[https://pep8-ja.readthedocs.io/ja/latest/][Python]]
+  - [[https://developer.mozilla.org/ja/docs/Mozilla/JavaScript_style_guide][JavaScript]]
+  - [[https://google.github.io/styleguide/shellguide.html][ShellScript]]
+  
