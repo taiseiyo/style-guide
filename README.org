@@ -1,2 +1,4 @@
 * Style Guide List
-[[https://google.github.io/styleguide/shellguide.html][Shell Script]]
+  [[https://google.github.io/styleguide/shellguide.html][Shell Script]]
+  JavaScript
+  Python
