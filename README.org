@@ -1,5 +1,9 @@
 * Style Guide List
-  - [[https://pep8-ja.readthedocs.io/ja/latest/][Python]]
-  - [[https://developer.mozilla.org/ja/docs/Mozilla/JavaScript_style_guide][JavaScript]]
-  - [[https://google.github.io/styleguide/shellguide.html][ShellScript]]
+  - This program allows you to easily jump to the style guide page
+    with a command from the shell (bash).
+
+  - You can jump to the style guide from the link below. 
+    - [[https://pep8-ja.readthedocs.io/ja/latest/][Python]]
+    - [[https://developer.mozilla.org/ja/docs/Mozilla/JavaScript_style_guide][JavaScript]]
+    - [[https://google.github.io/styleguide/shellguide.html][ShellScript]]
   
